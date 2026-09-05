@@ -1,0 +1,757 @@
+{
+  "_doc": "三张图（HS-GC-MS 标准表 + 葡萄酒发酵两个大论文表）的物质清单。thr 单位 μg/L（水相）。已存在的物质会被补充风味描述与阈值，缺失的物质会追加进数据库。",
+  "items": [
+    {
+      "en": "cis-2-Penten-1-ol",
+      "cn": "顺-2-戊烯-1-醇",
+      "cas": "1576-95-0",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "—"
+    },
+    {
+      "en": "3-Methyl-1-butanol",
+      "cn": "3-甲基-1-丁醇(异戊醇)",
+      "cas": "123-51-3",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Burnt, Cocoa, Floral, Malt"
+    },
+    {
+      "en": "1-Butanol",
+      "cn": "正丁醇",
+      "cas": "71-36-3",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Fruit"
+    },
+    {
+      "en": "2-Methyl-1-propanol",
+      "cn": "2-甲基-1-丙醇(异丁醇)",
+      "cas": "78-83-1",
+      "cat": "醇类",
+      "thr": "75000",
+      "med": "水相 μg/L",
+      "note": "Odor: Apple, Bitter, Cocoa, Wine"
+    },
+    {
+      "en": "1-Propanol",
+      "cn": "正丙醇",
+      "cas": "71-23-8",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Alcohol, Candy, Pungent"
+    },
+    {
+      "en": "2-Butanol",
+      "cn": "2-丁醇",
+      "cas": "78-92-2",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "—"
+    },
+    {
+      "en": "Ethanol",
+      "cn": "乙醇",
+      "cas": "64-17-5",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "—"
+    },
+    {
+      "en": "1-Hexanol",
+      "cn": "正己醇",
+      "cas": "111-27-3",
+      "cat": "醇类",
+      "thr": "8000",
+      "med": "水相 μg/L",
+      "note": "Odor: Banana, Flower, Grass, Herb"
+    },
+    {
+      "en": "Octanal",
+      "cn": "正辛醛",
+      "cas": "124-13-0",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Citrus, Fat, Green, Oil, Pungent"
+    },
+    {
+      "en": "Pentanal",
+      "cn": "正戊醛",
+      "cas": "110-62-3",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Almond, Bitter, Malt, Oil, Pungent"
+    },
+    {
+      "en": "3-Methylbutanal",
+      "cn": "3-甲基丁醛(异戊醛)",
+      "cas": "590-86-3",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "—"
+    },
+    {
+      "en": "2-Methylpropanal",
+      "cn": "2-甲基丙醛(异丁醛)",
+      "cas": "78-84-2",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Burnt, Caramel, Cocoa, Green, Malt"
+    },
+    {
+      "en": "Propanal",
+      "cn": "丙醛",
+      "cas": "123-38-6",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Floral, Pungent, Solvent"
+    },
+    {
+      "en": "Butanal",
+      "cn": "正丁醛",
+      "cas": "123-72-8",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Banana, Green, Pungent"
+    },
+    {
+      "en": "2-Methyl-2-pentenal",
+      "cn": "2-甲基-2-戊烯醛",
+      "cas": "623-36-9",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Fruit"
+    },
+    {
+      "en": "Heptanal",
+      "cn": "正庚醛",
+      "cas": "111-71-7",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Citrus, Fat, Green, Nut"
+    },
+    {
+      "en": "Furfural",
+      "cn": "糠醛",
+      "cas": "98-01-1",
+      "cat": "醛类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Almond, Baked Potatoes, Bread, Burnt, Spice"
+    },
+    {
+      "en": "Ethyl lactate",
+      "cn": "乳酸乙酯",
+      "cas": "97-64-3",
+      "cat": "酯类",
+      "thr": "14000",
+      "med": "水相 μg/L",
+      "note": "Odor: Cheese, Floral, Fruit, Pungent, Rubber"
+    },
+    {
+      "en": "Ethyl hexanoate",
+      "cn": "己酸乙酯",
+      "cas": "123-66-0",
+      "cat": "酯类",
+      "thr": "5",
+      "med": "水相 μg/L",
+      "note": "Odor: Apple Peel, Brandy, Fruit Gum, Overripe Fruit, Pineapple"
+    },
+    {
+      "en": "Ethyl pentanoate",
+      "cn": "戊酸乙酯",
+      "cas": "539-82-2",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Apple, Dry Fish, Herb, Nut, Yeast"
+    },
+    {
+      "en": "Isoamyl acetate",
+      "cn": "乙酸异戊酯",
+      "cas": "123-92-2",
+      "cat": "酯类",
+      "thr": "30",
+      "med": "水相 μg/L",
+      "note": "Odor: Apple, Banana, Pear"
+    },
+    {
+      "en": "Ethyl 3-methylbutanoate",
+      "cn": "3-甲基丁酸乙酯",
+      "cas": "108-64-5",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Apple, Fruit, Pineapple, Sour"
+    },
+    {
+      "en": "Ethyl 2-methylbutanoate",
+      "cn": "2-甲基丁酸乙酯",
+      "cas": "7452-79-1",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Apple, Ester, Green Apple, Kiwi, Strawberry"
+    },
+    {
+      "en": "Ethyl butanoate",
+      "cn": "丁酸乙酯",
+      "cas": "105-54-4",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Apple, Butter, Cheese, Pineapple, Strawberry"
+    },
+    {
+      "en": "Isobutyl acetate",
+      "cn": "乙酸异丁酯",
+      "cas": "110-19-0",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Apple, Banana, Floral, Herb"
+    },
+    {
+      "en": "Propyl acetate",
+      "cn": "乙酸丙酯",
+      "cas": "109-60-4",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Celery, Floral, Pear, Red Fruit"
+    },
+    {
+      "en": "Ethyl isobutyrate",
+      "cn": "异丁酸乙酯",
+      "cas": "97-62-1",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "—"
+    },
+    {
+      "en": "Ethyl propanoate",
+      "cn": "丙酸乙酯",
+      "cas": "105-37-3",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Apple, Pineapple, Rum, Strawberry"
+    },
+    {
+      "en": "Ethyl acetate",
+      "cn": "乙酸乙酯",
+      "cas": "141-78-6",
+      "cat": "酯类",
+      "thr": "7500",
+      "med": "水相 μg/L",
+      "note": "Odor: Aromatic, Brandy, Grape"
+    },
+    {
+      "en": "Ethyl formate",
+      "cn": "甲酸乙酯",
+      "cas": "109-94-4",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Pungent"
+    },
+    {
+      "en": "Butyl acetate",
+      "cn": "乙酸丁酯",
+      "cas": "123-86-4",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Apple, Banana"
+    },
+    {
+      "en": "Ethyl heptanoate",
+      "cn": "庚酸乙酯",
+      "cas": "106-30-9",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Brandy, Fruit, Wine"
+    },
+    {
+      "en": "Ethyl octanoate",
+      "cn": "辛酸乙酯",
+      "cas": "106-32-1",
+      "cat": "酯类",
+      "thr": "200",
+      "med": "水相 μg/L",
+      "note": "Odor: Apricot, Brandy, Fat, Floral, Pineapple"
+    },
+    {
+      "en": "3-Octanone",
+      "cn": "3-辛酮",
+      "cas": "106-68-3",
+      "cat": "酮类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Butter, Herb, Mold"
+    },
+    {
+      "en": "Acetone",
+      "cn": "丙酮",
+      "cas": "67-64-1",
+      "cat": "酮类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Pungent"
+    },
+    {
+      "en": "2-Butanone",
+      "cn": "2-丁酮",
+      "cas": "78-93-3",
+      "cat": "酮类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Fragrant, Fruit, Pleasant"
+    },
+    {
+      "en": "2-Pentanone",
+      "cn": "2-戊酮",
+      "cas": "107-87-9",
+      "cat": "酮类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Fruit, Pungent"
+    },
+    {
+      "en": "Terpinolene",
+      "cn": "异松油烯",
+      "cas": "586-62-9",
+      "cat": "萜烯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Pine"
+    },
+    {
+      "en": "alpha-Terpinene",
+      "cn": "α-松油烯",
+      "cas": "99-86-5",
+      "cat": "萜烯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Lemon"
+    },
+    {
+      "en": "Dimethyl sulfide",
+      "cn": "二甲基硫醚",
+      "cas": "75-18-3",
+      "cat": "其他",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Cabbage, Organic, Sulfur, Wet Earth；含硫化合物"
+    },
+    {
+      "en": "Acetic acid",
+      "cn": "乙酸",
+      "cas": "64-19-7",
+      "cat": "酸类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "Odor: Acid, Fruit, Pungent, Sour, Vinegar"
+    },
+    {
+      "en": "Ethyl octanoate duplicate skip",
+      "_skip": true,
+      "note": "—"
+    },
+    {
+      "en": "Methyl octanoate",
+      "cn": "辛酸甲酯",
+      "cas": "111-11-5",
+      "cat": "酯类",
+      "thr": "500",
+      "med": "水相 μg/L",
+      "note": "浓郁的柑橘味"
+    },
+    {
+      "en": "Ethyl leucinate",
+      "cn": "DL-白氨酸乙酯",
+      "cas": "10348-43-5",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "香槟味、苹果酒味"
+    },
+    {
+      "en": "Octyl formate",
+      "cn": "甲酸辛酯",
+      "cas": "112-32-3",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "甜的水果香气"
+    },
+    {
+      "en": "gamma-Butyrolactone",
+      "cn": "γ-丁内酯",
+      "cas": "96-48-0",
+      "cat": "酯类",
+      "thr": "10000",
+      "med": "水相 μg/L (<10000)",
+      "note": "焦糖味、甜味"
+    },
+    {
+      "en": "Ethyl decanoate",
+      "cn": "癸酸乙酯",
+      "cas": "110-38-9",
+      "cat": "酯类",
+      "thr": "200",
+      "med": "水相 μg/L",
+      "note": "果香味、脂肪味"
+    },
+    {
+      "en": "Diethyl succinate",
+      "cn": "丁二酸二乙酯(琥珀酸二乙酯)",
+      "cas": "123-25-1",
+      "cat": "酯类",
+      "thr": "200000",
+      "med": "水相 μg/L",
+      "note": "浓郁的酒曲香、果香味"
+    },
+    {
+      "en": "Ethyl 9-decenoate",
+      "cn": "9-癸烯酸乙酯",
+      "cas": "67233-91-4",
+      "cat": "酯类",
+      "thr": "200",
+      "med": "水相 μg/L",
+      "note": "果香味、脂肪酸"
+    },
+    {
+      "en": "Ethyl phenylacetate",
+      "cn": "苯乙酸乙酯",
+      "cas": "101-97-3",
+      "cat": "酯类",
+      "thr": "100",
+      "med": "水相 μg/L (100~1000)",
+      "note": "蜂蜜、花香"
+    },
+    {
+      "en": "Methyl salicylate",
+      "cn": "水杨酸甲酯",
+      "cas": "119-36-8",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "冬青叶味"
+    },
+    {
+      "en": "Phenethyl acetate",
+      "cn": "乙酸苯乙酯",
+      "cas": "103-45-7",
+      "cat": "酯类",
+      "thr": "250",
+      "med": "水相 μg/L",
+      "note": "玫瑰香、苹果味、粮香"
+    },
+    {
+      "en": "Ethyl laurate",
+      "cn": "月桂酸乙酯",
+      "cas": "106-33-0",
+      "cat": "酯类",
+      "thr": "83",
+      "med": "水相 μg/L",
+      "note": "花香味、果香味"
+    },
+    {
+      "en": "Ethyl isovalerate",
+      "cn": "异戊酸乙酯",
+      "cas": "108-64-5",
+      "cat": "酯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "苹果、热带水果"
+    },
+    {
+      "en": "Isobutanol",
+      "cn": "异丁醇",
+      "cas": "78-83-1",
+      "cat": "醇类",
+      "thr": "75000",
+      "med": "水相 μg/L",
+      "note": "杂醇味、酒精味"
+    },
+    {
+      "en": "Isoamyl alcohol",
+      "cn": "异戊醇",
+      "cas": "123-51-3",
+      "cat": "醇类",
+      "thr": "1000",
+      "med": "水相 μg/L",
+      "note": "烟酸味、溶剂味"
+    },
+    {
+      "en": "4-Methyl-1-pentanol",
+      "cn": "4-甲基-1-戊醇",
+      "cas": "626-89-1",
+      "cat": "醇类",
+      "thr": "50000",
+      "med": "水相 μg/L",
+      "note": "杏仁、烘烤味"
+    },
+    {
+      "en": "2-Heptanol",
+      "cn": "2-庚醇",
+      "cas": "543-49-7",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "鲜柠檬、草药"
+    },
+    {
+      "en": "3-Methyl-1-pentanol",
+      "cn": "3-甲基-1-戊醇",
+      "cas": "589-35-5",
+      "cat": "醇类",
+      "thr": "500",
+      "med": "水相 μg/L",
+      "note": "辛辣、生青味"
+    },
+    {
+      "en": "cis-3-Hexen-1-ol",
+      "cn": "反式-3-己烯-1-醇",
+      "cas": "544-12-3",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "—"
+    },
+    {
+      "en": "Leaf alcohol",
+      "cn": "叶醇(顺-3-己烯-1-醇)",
+      "cas": "928-96-1",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "青草味"
+    },
+    {
+      "en": "cis-2-Hexen-1-ol",
+      "cn": "顺-2-己烯-1-醇",
+      "cas": "928-94-9",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "青叶醇"
+    },
+    {
+      "en": "1-Heptanol",
+      "cn": "正庚醇",
+      "cas": "111-70-6",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "油脂味"
+    },
+    {
+      "en": "2,3-Butanediol",
+      "cn": "2,3-丁二醇",
+      "cas": "513-85-9",
+      "cat": "醇类",
+      "thr": "150000",
+      "med": "水相 μg/L",
+      "note": "黄油味、奶油味"
+    },
+    {
+      "en": "1-Nonanol",
+      "cn": "1-壬醇",
+      "cas": "143-08-8",
+      "cat": "醇类",
+      "thr": "600",
+      "med": "水相 μg/L",
+      "note": "油脂味、生青味"
+    },
+    {
+      "en": "3-Methylthio-1-propanol",
+      "cn": "3-甲硫基丙醇",
+      "cas": "505-10-2",
+      "cat": "其他",
+      "thr": "1000",
+      "med": "水相 μg/L",
+      "note": "大蒜味、生土豆味"
+    },
+    {
+      "en": "1-Decanol",
+      "cn": "1-癸醇",
+      "cas": "112-30-1",
+      "cat": "醇类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "棉花味、油脂味"
+    },
+    {
+      "en": "Benzyl alcohol",
+      "cn": "苯甲醇",
+      "cas": "100-51-6",
+      "cat": "醇类",
+      "thr": "200000",
+      "med": "水相 μg/L",
+      "note": "柑橘味、甜味"
+    },
+    {
+      "en": "Phenylethyl alcohol",
+      "cn": "苯乙醇",
+      "cas": "60-12-8",
+      "cat": "醇类",
+      "thr": "14000",
+      "med": "水相 μg/L",
+      "note": "玫瑰花味、甜味"
+    },
+    {
+      "en": "Isobutyric acid",
+      "cn": "异丁酸",
+      "cas": "79-31-2",
+      "cat": "酸类",
+      "thr": "200000",
+      "med": "水相 μg/L",
+      "note": "酸奶味、奶酪味"
+    },
+    {
+      "en": "Propylmalonic acid",
+      "cn": "丙基丙二酸",
+      "cas": "616-62-6",
+      "cat": "酸类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "—"
+    },
+    {
+      "en": "2-Methylbutanoic acid",
+      "cn": "2-甲基丁酸",
+      "cas": "116-53-0",
+      "cat": "酸类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "油酪膏"
+    },
+    {
+      "en": "Caproic acid",
+      "cn": "己酸",
+      "cas": "142-62-1",
+      "cat": "酸类",
+      "thr": "3000",
+      "med": "水相 μg/L",
+      "note": "乳酪味、甜香"
+    },
+    {
+      "en": "Caprylic acid",
+      "cn": "辛酸",
+      "cas": "124-07-2",
+      "cat": "酸类",
+      "thr": "500",
+      "med": "水相 μg/L",
+      "note": "涩味、奶酪味"
+    },
+    {
+      "en": "Acetaldehyde",
+      "cn": "乙醛",
+      "cas": "75-07-0",
+      "cat": "醛类",
+      "thr": "167",
+      "med": "水相 μg/L",
+      "note": "—"
+    },
+    {
+      "en": "3-Hydroxybutanal",
+      "cn": "3-羟基丁醛",
+      "cas": "107-89-1",
+      "cat": "醛类",
+      "thr": "27",
+      "med": "水相 μg/L",
+      "note": "—"
+    },
+    {
+      "en": "2-Ethylhexanal",
+      "cn": "仲辛醛(2-乙基己醛)",
+      "cas": "123-05-7",
+      "cat": "醛类",
+      "thr": "0.25",
+      "med": "水相 μg/L",
+      "note": "花香、青草味"
+    },
+    {
+      "en": "Benzaldehyde",
+      "cn": "苯甲醛",
+      "cas": "100-52-7",
+      "cat": "醛类",
+      "thr": "2000",
+      "med": "水相 μg/L",
+      "note": "杏仁味、烘烤味"
+    },
+    {
+      "en": "Linalool",
+      "cn": "芳樟醇",
+      "cas": "78-70-6",
+      "cat": "萜烯类",
+      "thr": "25.2",
+      "med": "水相 μg/L",
+      "note": "花香味"
+    },
+    {
+      "en": "alpha-Terpineol",
+      "cn": "α-松油醇",
+      "cas": "98-55-5",
+      "cat": "萜烯类",
+      "thr": "—",
+      "med": "文献未列",
+      "note": "清香、木香"
+    },
+    {
+      "en": "Citronellol",
+      "cn": "香茅醇",
+      "cas": "106-22-9",
+      "cat": "萜烯类",
+      "thr": "40",
+      "med": "水相 μg/L",
+      "note": "柠檬味"
+    },
+    {
+      "en": "Damascenone",
+      "cn": "大马士酮",
+      "cas": "23696-85-7",
+      "cat": "萜烯类",
+      "thr": "0.05",
+      "med": "水相 μg/L",
+      "note": "蜂蜜香、玫瑰香"
+    },
+    {
+      "en": "2,4-Di-tert-butylphenol",
+      "cn": "2,4-二叔丁基苯酚",
+      "cas": "96-76-4",
+      "cat": "其他",
+      "thr": "200",
+      "med": "水相 μg/L",
+      "note": "酚味"
+    },
+    {
+      "en": "2-Phenylethanol",
+      "cn": "苯乙醇(2-苯基乙醇)",
+      "cas": "60-12-8",
+      "cat": "醇类",
+      "thr": "14000",
+      "med": "水相 μg/L",
+      "note": "玫瑰花味、甜味"
+    }
+  ]
+}

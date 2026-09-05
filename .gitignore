@@ -1,0 +1,23 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- 生成物 / 缓存 ----
+风味物质检索_离线版.html
+风味物质检索_离线版.html.bak_step_unknown
+chemsrc_cache.json
+
+# ---- 备份 ----
+*.bak
+*.bak_step_unknown
+
+# ---- 开发用：Playwright 测试脚本 & 截图（不入库）----
+e2e_test.js
+multi_e2e.js
+offline_e2e.js
+offline_multi_e2e.js
+offline_viz_e2e.js
+viz_e2e.js
+verify_*.js
+*.png
